@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "6ffe4cd7-ccd2-4bf3-881c-c423f7ffcde8",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "6ffe4cd7-ccd2-4bf3-881c-c423f7ffcde8",
+    "group": { "default": "Under Development" },
+    "title": { "default": "SpfxMultipleWebparts" },
+    "description": { "default": "spfx-multiple-webparts description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "SpfxMultipleWebparts"
+    }
+  }]
+}

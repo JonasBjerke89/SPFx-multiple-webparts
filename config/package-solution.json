@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "sp-fx-multiple-webparts-client-side-solution",
+    "id": "200d0350-74a9-4c1f-8e5f-d55b1e75ac19",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "sp-fx-multiple-webparts.spapp"
+  }
+}
